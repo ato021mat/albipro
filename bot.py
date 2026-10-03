@@ -25,8 +25,7 @@ from aiogram.client.default import DefaultBotProperties
 
 # ==================== تنظیمات ====================
 # توکن بات را از BotFather بگیرید و اینجا بگذارید یا به عنوان متغیر محیطی
-BOT_TOKEN = os.getenv("BOT_TOKEN", "1877036958:TEST:cc47a6b01e7d1a544d4cdb6d389666262a6ffa7f
-")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8990421292:AAH_Yt8mi3P7mtn9kIe5pP1TAGWf-sxrWPc")
 
 # آیدی تلگرام خودت (دو تا برای unlimited). از @userinfobot بگیر
 ADMIN_IDS = [75054572, 5487258653]  # این اعداد را عوض کن
